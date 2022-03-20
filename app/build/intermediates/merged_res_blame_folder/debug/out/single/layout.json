@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\task_view.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\src\\main\\res\\layout\\task_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\Carlos\\Documents\\GitHub\\Digimind\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    }
+]
